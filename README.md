@@ -169,6 +169,6 @@ Waveform screenshots are available in the `screenshots` directory.
 
 ## Author
 
-Jay Jain
+PANDEY SIDDHARTH VINAYAK VIJAYKUMAR
 
-Electronics & Communication Engineering
+ROBOTICS AND AUTOMATION ENGINEERING
